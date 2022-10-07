@@ -9,11 +9,11 @@ You first have to add it into your maven dependencies.
 ***pom.xml***
 ```xml
 <dependencies>
-  <dependency>
-      <groupId>net.neyrowz</groupId>
-      <artifactId>MysqlAPI</artifactId>
-      <version>1.0.0</version>
-  </dependency>
+    <dependency>
+        <groupId>net.neyrowz</groupId>
+        <artifactId>MysqlAPI</artifactId>
+        <version>1.0.0</version>
+    </dependency>
 </dependencies>
 ```
 
