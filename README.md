@@ -38,7 +38,9 @@ public class PLAYER_CLASS {
 }
 ```
 
-> Note that a database credentials file will be created to the plugin folder. 
+> Note that you can use the @Exclude annotation to remove a variable from the saved datas.
+
+> Note that a database credentials file will be created to the plugin folder.
 
 Last you have to do an instance of the API and a getter so you can access it from everywhere.
 
